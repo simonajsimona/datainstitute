@@ -1,0 +1,14 @@
+h1{
+  color: purple;
+}
+p{
+  color: black;
+  font-family: 'Cabin',sans-serif;
+  font-size: 20px;
+}
+body{
+  border: 20px solid #bdc3c7;
+  padding: 20px;
+  width: 700px;
+  margin: 0 auto;
+}
